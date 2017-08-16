@@ -6,7 +6,7 @@
 
 ### Members
 1. akizuki12
-1. username
+1. tp-angeles
 1. username
 
 ### August 16 Activity
