@@ -6,8 +6,9 @@
 
 ### Members
 1. akizuki12
+1. eelingatong
 1. username
-1. username
+1. beabcruz
 1. analogdash
 
 ### August 16 Activity
