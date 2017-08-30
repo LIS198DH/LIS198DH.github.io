@@ -28,6 +28,7 @@
 - https://tone-analyzer-demo.mybluemix.net/
 - http://nlp.stanford.edu:8080/sentiment/rntnDemo.html
 - http://services.gate.ac.uk/decarbonet/sentiment/
+- http://text2data.org/Demo
 
 3. Assess the generated sentiments. Upload your assessment in https://github.com/LIS198DH/1stexam
 
