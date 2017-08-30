@@ -1,0 +1,151 @@
+Samuel M. Pepito
+2014-31686
+LIS 198 DH
+
+ORIGINAL TEXT
+Tweets:
+I still haven't done anything academic for this week, on the other hand, I watched all of the Scream movies. 
+Taylor and self-awareness. 
+Hmm. 
+It's been written in history books that when you're about to start your review, you'll find the world's most interesting youtube channel. 
+Nagpa-assess ako kanina at 0 pesos na! 
+This is a step towards the right direction! 
+For our Digital Humanities class, I text mined Rizal's Reign of Greed (El Filibusterismo) and had some interesting results. 
+I have a free day. 
+It's either I start doing my report or I continue watching the rest of the Friday The 13th movies. 
+I chose Jason. 
+While I was walking, I realized I still remember the lyrics of 3OH3's My First Kiss. 
+I can't wait to have a stable source of income. 
+I'm gonna buy a lot of stupid crap. 
+It's not the robber we fear at night. 
+Not anymore. 
+I'm cooler than all my other sestras. 
+Spent almost the entire day at the UP Radio Circle Booth at the AS Parking Lot. 
+Hope we'll see more of you guys tomorrow! 
+#bottleflip 
+I found two pieces of clothing and they were only for P150 total! 
+UKAY UKAY IS AMAZING! 
+Our first tap dance lesson a.k.a. 
+me jumping around like the mess that I am. 
+The struggle to find pre-owned size 10 tap shoes is real. 
+I wonder if Bigfoot had tap lessons... 
+Who let the stupid reboot craze come into this country? 
+I'll leave for school at 6:30AM, I'll come back by 9:00PM. 
+LOVE THIS WEDNESDAY SCHED 
+You'll know it's a GE class when no one seems to be talking to each other on the first day. 
+Touring freshmen around UP for the GFT reminds me that I'm already an ancient being. 
+The only Team 10 that you will need! 
+Kitakits Freshies! 
+I've been sleeping from 9AM til 5PM. 
+Hahaha 
+I am pissed off with a lot of things. 
+I have to listen to Lana's Lust For Life album to calm myself down. 
+It sucks when you have to get ready for something you already know you won't get anything out of. 
+I'm talking about the manual enlistment. 
+I CAN'T GET OVER THE FACT THAT ORPHAN BLACK ONLY HAS A FEW EPISODES LEFT. 
+It's weird that when Mica does it she sounds fantastic but when I do it I sound like a monkey breaking out from the zoo. 
+If I wanted someone rambling nonsense and profanity, I would just watch a youtube video. 
+Got nothing to do so I went to youtube and guess what? 
+I still know the lyrics to Hoedown Throwdown from Hannah Montana. 
+Why am I lame? 
+Was able to play a bit of Injustice in Timezone. 
+Yep, I suck at fighting games. 
+CRS, WHY DO I KEEP EXPECTING YOU TO CHANGE. 
+IT'S BEEN THREE YEARS. 
+Are you kidding me? 
+They're not showing "A Ghost Story" in any cinemas near me? 
+I cry. 
+I'm waiting. 
+Please no more mockumentary. 
+I think almost everyone wanted to be a doctor when they were a kid but then I found out how dumb I was and moved on. 
+Me as I go through everyday life: 
+"Don't say your real thoughts, don't say your real thoughts." 
+Y'all are asking what my thesis topic would be when I can't even decide what I want to eat for lunch. 
+Constantly in a cycle of "Ugh, library work is mundane" to "Holy crap, this is awesome." 
+My comeuppance will come soon enough. 
+Pokemon Switch, we'll meet someday. 
+Maybe not at your launch date but definitely someday. 
+Okay, I promised to watch an episode of Steins;Gate because it's been in my HD for years and now I'm almost done watching. 
+What is this. 
+I must be a fish in my previous life because I always want to be near a body of water. 
+Back again to the spot I always go to when I want to be alone. 
+When it's halfway into the movie and they're not developing a character yet. 
+Uhm. 
+Is he gonna die or what? 
+I didn't notice that I was a Miley stan all these years. 
+From Disney to Bangerz to Malibu. 
+________________________________________________________________________________________________________________________________
+SENTIMENTS ANALYSIS
+EMOTION
+Joy
+0.55
+LIKELY
+
+Sadness
+0.57
+LIKELY
+
+LANGUAGE STYLE
+Analytical
+0.00
+UNLIKELY
+
+Confident
+0.00
+UNLIKELY
+
+Tentative
+0.58
+LIKELY
+
+SOCIAL TENDENCIES
+Openness
+0.19
+UNLIKELY
+
+Conscientiousness
+0.01
+UNLIKELY
+
+Extraversion
+0.00
+UNLIKELY
+
+Agreeableness
+0.23
+UNLIKELY
+
+Emotional Range
+0.07
+UNLIKELY
+_______________________________________________________________________________________________________________________________
+ASSESSMENT  
+  Just when I thought that I had learned nearly every kind of work used in the Digital Humanities, the field continues to prove
+itself as forward-looking and innovative. Tonight, I have learned about Sentiments Analysis, a topic that I have never even 
+before. As it turns out, what was presented in our first weeks of DH was only a miniscule amount of the seemingly endless
+possibilities provided by the Digital Humanities.
+
+  I discovered that SA (Sentiments Analysis) is a method to measure the attitudes and opinions expressed by a person or a group 
+in their text. Upon hearing this, I immediately imagined the different ways this can be used and how this is not really that
+well-known but our professor discussed that this has already been used by many companies to analyse the reception of their
+product. Aside from its commercial use, I can also think of other ways to use this. For example, determining the general opinion
+of the public about a certain issue which we already did through an application.
+
+  But for our activity for today, we were tasked to look a bit deeper into our psyche and use the same tool to analyse our words,
+either on our writings or our social media correspondences. I have to admit I was a bit afraid to discover what the results might
+show. We used a website namely "https://tone-analyzer-demo.mybluemix.net/" to do our sentiments analysis. We would use the tidy 
+data principle. I have decided to use my twitter posts as my text source as I am interested to know what most of my writings 
+are about when I'm mindlessly tweeting. I collected all of my tweets for the last two months and made it as an input for the 
+analysis. The results were a bit surprising.
+ 
+  The data showed by the site says that my tweets are mostly a combination of joy-filled messages and those that express sadness. 
+I didn't expect that that would be the outcome. It seems like I'm learning a lot about myself. Not only that, I have also 
+discovered that most of my tweets are tentative which means that my writings almost express uncertainty and doubt. It was then
+that I noticed I do use a lot of questions in my tweets. My social tendency appears to be agreeableness. According to the site, 
+this means that I am cooperative with others which I have to admit is true.
+ 
+  Looking back to the activity, it is surprising to discover new ways that the humanities and information technologies intersect.
+Our discussions do reflect real-life scenarios. This is another example of how big the possibilities are and how grand the results
+would be when the two intersect. It is only through collaboration that methods such as the Sentiments Analysis we just did would 
+be applicable. I cannot wait for more opportunities with Digital Humanities! 
+
