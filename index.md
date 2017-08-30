@@ -28,6 +28,8 @@
 - https://tone-analyzer-demo.mybluemix.net/
 - http://nlp.stanford.edu:8080/sentiment/rntnDemo.html
 - http://services.gate.ac.uk/decarbonet/sentiment/
+
 Optional for Twitter posts
 - https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/
-1. Assess the generated sentiment. Upload your assessment in 
+
+3. Assess the generated sentiment. Upload your assessment in 
