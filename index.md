@@ -32,7 +32,7 @@
 Optional for Twitter posts
 - https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/
 
-3. Assess the generated sentiment. Upload your assessment in https://github.com/LIS198DH/1stexam
+3. Assess the generated sentiments. Upload your assessment in https://github.com/LIS198DH/1stexam
 
 ### Format
 - Original Text
