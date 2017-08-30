@@ -6,31 +6,16 @@
 
 ### Members
 1. akizuki12
-2. eelingatong
-3. username
-4. beabcruz
-5. krganzon
-6. jsoasan
-7. sampepito
-8. taban
-9. mcalava
-
-11. agdelvalle
-
-
-
-
-
-
-
-
-
+1. eelingatong
+1. beabcruz
+1. krganzon
+1. jsoasan
+1. sampepito
+1. taban
+1. mcalava
+1. agdelvalle
 1. tjcvz
-
-
-
 1. rhmedina2
-
 1. akosiyno
 
 ### August 16 Activity
