@@ -21,3 +21,13 @@
 ### August 16 Activity
 1. Edit this document (https://guides.github.com/activities/forking/) by adding your GitHub username under the members section using the proper markdowns (https://guides.github.com/features/mastering-markdown/)
 1. Articulate the key points you got from this week's assigned readings and upload it to https://github.com/LIS198DH/key_points.git
+
+### August 30 Activity
+1. Prepare a text for sentiment analysis (SNS posts, online reviews, email correspondences, your own text)
+1. Evaluate your text using the following web tools
+- https://tone-analyzer-demo.mybluemix.net/
+- http://nlp.stanford.edu:8080/sentiment/rntnDemo.html
+- http://services.gate.ac.uk/decarbonet/sentiment/
+Optional for Twitter posts
+- https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/
+1. Assess the generated sentiment. Upload your assessment in 
